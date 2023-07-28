@@ -1,0 +1,26 @@
+/* Style the table header row */
+table thead tr {
+    background-color: #f2f2f2;
+  }
+  
+  /* Style the table header cells */
+  table th {
+    background-color: #4CAF50;
+    color: white;
+  }
+  
+  /* Style the table data cells */
+  table td {
+    background-color: #f2f2f2;
+    color: black;
+  }
+  
+  /* Style the even rows of the table */
+  table tr:nth-child(even) td {
+    background-color: #e6e6e6;
+  }
+  
+  /* Style the odd rows of the table */
+  table tr:nth-child(odd) td {
+    background-color: #f2f2f2;
+  }

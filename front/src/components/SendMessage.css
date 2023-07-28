@@ -1,0 +1,149 @@
+.chat-container {
+  margin: 1px;
+  display: flex;
+  height: 88vh;
+  width: 99%;
+}
+
+
+   .chat-sidebar {
+    background-color: #f1f1f1;
+    width: 250px;
+    height: 100%;
+    padding: 20px;
+    box-sizing: border-box;
+    float: right; /* float to the left */
+  }
+
+.chat-main {
+  display: flex;
+  flex-direction: column;
+  flex-grow: 1;
+  border-left: 1px solid #ccc;
+  background-color: rgb(9, 9, 14);
+  background-image: linear-gradient(rgb(49, 36, 36), rgb(53, 68, 56));
+}
+
+.chat-header {
+  padding: 10px;
+  background-color: #f5d6dd;
+  color: rgb(43, 118, 216);
+  display: flex;
+  align-items: center;
+}
+
+.chat-header h3 {
+  margin: 0;
+  font-size: 20px;
+  font-weight: normal;
+}
+
+.chat-messages {
+  flex-grow: 1;
+  padding: 10px;
+  overflow-y: auto;
+  color: aqua;
+}
+
+.chat-message {
+  display: flex;
+  flex-direction: column;
+ 
+  margin: 10px;
+  padding: 10px;
+  
+}
+
+.chat-message .message-text {
+  display: flex;
+  flex-direction: column;
+  background-color: rgb(150, 219, 104);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 50%;
+  align-self: flex-start;
+
+}
+
+.chat-message .message-timestamp {
+   display: flex;
+  flex-direction: column;
+  background-color: rgb(104, 170, 84);
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  max-width: 100%;
+  align-self: self-end;
+}
+
+.chat-message-mine {
+  background-color:transparent;
+  align-self: flex-end;
+}
+
+
+
+.chat-input-container {
+  display: flex;
+  align-items: center;
+  padding: 10px;
+  background-color: #f2f2f2;
+}
+
+.chat-input-container input {
+  flex-grow: 1;
+  border: none;
+  background-color: transparent;
+  font-size: 16px;
+  padding: 10px;
+  border-radius: 20px;
+  margin-right: 10px;
+}
+
+.chat-input-container button {
+  background-color: #075e54;
+  color: rgb(207, 102, 102);
+  border: none;
+  padding: 10px;
+  border-radius: 10%;
+  font-size: 20px;
+  cursor: pointer;
+}
+.chat-input-container:hover {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.2);
+  cursor: pointer;
+}
+
+.chat-input-container:hover input[type="text"] {
+  cursor: text;
+}
+
+.sms-error {
+  color: red;
+  margin: 5px;
+}
+.row{
+  width: 100%;
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+}
+.row::after{
+  display: table;
+  clear: both;
+  content: "";}
+.col-1{width:8.33%;}
+.col-2{width:16.22%;}
+.col-3{width:25%;}
+.col-4{width:30%;}
+.col-5{width:40%;}
+.col-6{width:50%;}
+.col-7{width:60%;}
+.col-8{width:70%}
+.col-9{width:75%;}
+.col-10{width:80%}
+.col-11{width:90%;}
+.col-12{width:100%;
+  
+}
