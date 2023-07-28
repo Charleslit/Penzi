@@ -1,0 +1,1437 @@
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-028-663
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:51:38] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:51:38] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:51:54] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:51:54] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-028-663
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:52:39] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:52:39] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:52:41] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-028-663
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-028-663
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:53:42] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:53:42] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:53:45] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 123-028-663
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:55:17] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:55:17] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:55:18] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:55:36] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:55:36] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:55:36] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [21/Jul/2023 09:55:36] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 278-290-570
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:31:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:31:03] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:31:03] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:31:23] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:31:23] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:31:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:31:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:31:31] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:31:31] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:33:09] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:33:09] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:33:51] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:34:26] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:34:40] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:34:40] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:34:43] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:35:01] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:36:29] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:36:33] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:36:33] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:36:33] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:36:33] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:37:47] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:38:11] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:41:36] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:41:36] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:41:39] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 19:42:13] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:00:41] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:00:41] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:00:41] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:00:41] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:00:46] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:03:55] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:05:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:05:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:05:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:05:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:05:05] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:05:27] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:05:36] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:06:11] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:06:33] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:06:39] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:06:57] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:06:57] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:06:57] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:06:57] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:07:09] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:07:14] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:07:53] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:08:28] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:08:42] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:11:16] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:12:25] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:12:25] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:12:26] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:12:42] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:13:47] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:14:30] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:16:09] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:16:24] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:17:07] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:17:18] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:18:35] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:18:43] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:18:48] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:18:56] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:18:56] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:18:58] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:19:07] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:19:50] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:32:36] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:32:41] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:34:47] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:38:22] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:48:07] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:50:45] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:50:57] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:51:44] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:52:03] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:59:04] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 21:59:39] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:00:10] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:00:16] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:00:36] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:00:59] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:01:31] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:01:51] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:03:41] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:04:28] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [22/Jul/2023 22:04:34] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:54:01] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:54:49] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:55:17] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:55:29] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:56:03] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:56:13] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:37] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:37] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:40] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:47] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:47] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:51] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:51] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:55] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 09:58:55] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:20:42] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:20:43] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:35:20] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:35:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:38:05] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:38:05] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:38:39] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:38:39] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:38:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:40:39] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:40:39] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:40:42] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:43:34] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:43:34] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:43:34] "[33mPOST /profile HTTP/1.1[0m" 404 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 10:44:28] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:08:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:08:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:12:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:12:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:12:25] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:12:25] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:16:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:16:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:16:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:16:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:20:10] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:20:10] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:20:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:20:49] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:20:50] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:20:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:22:20] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:22:21] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:22:22] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:23:07] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:23:07] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:23:12] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:30:14] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:30:14] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:30:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:32:51] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:32:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:33:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:33:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:33:18] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:39:30] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:39:30] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:39:32] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:39:33] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:40:24] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:40:24] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:40:25] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:43:28] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:43:28] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 11:43:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:21:56] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:21:56] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:21:58] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:21:58] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:31:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:31:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:31:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:31:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:47:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:47:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:47:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:47:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:47:28] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:47:28] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:47:28] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:47:28] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:48:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:48:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:48:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:48:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:51:41] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:51:41] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:51:41] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:51:41] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:51:57] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:51:57] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:51:57] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:51:57] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:54:54] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:54:54] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:54:54] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:54:54] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:55:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:55:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:55:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 12:55:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:06:41] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:06:41] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:06:41] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:06:41] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:09:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:09:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:09:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:09:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:13:13] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:13:13] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:14:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:14:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:14:03] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:14:18] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:14:18] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:19:55] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:19:55] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:19:56] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:20:28] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:20:28] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:26:27] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:26:27] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:26:28] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:28:23] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:28:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:28:24] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:42:30] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:42:30] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:43:44] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:43:44] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:43:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:43:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:46:04] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:46:04] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:46:11] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:46:11] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:49:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:49:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:49:04] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:49:08] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:49:08] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:49:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:50:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:50:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:50:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:50:14] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:50:18] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:50:46] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:50:46] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:50:46] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:51:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:51:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:51:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:51:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:53:46] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:53:46] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:53:46] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:53:46] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:53:46] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:53:46] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:53:46] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:53:46] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:17] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:17] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:17] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:54:17] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:56:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:56:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:56:03] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:56:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 13:56:06] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:08] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:08] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:08] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:08] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:12] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:12] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:12] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:03:12] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:07:52] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:07:52] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:07:54] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:08:04] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:08:04] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:08:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:08:24] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 14:08:24] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:33] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:44] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:44] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:44] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:32:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:36:14] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:36:14] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:43] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:43] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:43] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:43] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:48] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:37:48] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:38:35] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:38:35] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:38:35] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:38:35] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:38:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:38:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:38:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:38:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:38:39] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:01] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:26] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:26] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:26] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:26] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:32] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:34] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:43] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:43] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:43] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:43] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:43] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:43] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:43] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:40:43] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:43:37] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:44:50] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:05] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:05] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:05] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:05] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:09] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:14] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:47:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:01] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:27] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:32] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:32] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:32] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:32] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:32] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:32] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:32] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:32] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:35] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:48:51] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:49:14] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:49:14] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:49:14] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:49:15] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:49:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:49:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:49:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:49:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:50:25] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:50:35] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:54:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:54:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:54:18] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:54:20] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:54:27] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:54:27] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:56:34] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:56:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:56:38] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:56:42] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:56:42] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:56:47] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:58:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:58:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:59:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:59:18] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:59:18] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 15:59:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:02:55] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:02:55] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:02:58] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:02:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:03:00] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:04:05] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:04:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:04:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:04:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:04:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:05:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:05:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:05:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:05:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:05:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:05:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:05:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:05:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:10:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:10:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:11:00] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:11:12] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:11:12] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:11:14] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:22:29] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:22:29] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:22:29] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:22:29] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:22:29] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:22:29] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:23:01] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:23:01] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:31] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:55] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:55] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:55] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:55] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:55] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:55] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:24:55] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:26:25] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:26:25] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:27:20] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:27:20] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:27:24] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:27:29] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:27:30] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:27:34] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:27:38] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:27:38] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:33:57] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:33:57] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:33:58] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:33:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:34:00] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:34:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:34:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:34:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:34:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:34:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:34:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:34:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:34:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:40:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:40:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:40:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:40:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:40:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:40:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:40:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:40:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:49:29] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:49:29] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:49:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:49:32] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:49:33] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:50:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:50:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:50:20] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:50:21] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:50:25] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 16:50:25] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:15] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:15] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:15] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:15] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:49] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:49] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:49] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:49] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:49] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:02:49] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:05:36] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:05:36] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:05:37] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:05:37] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:05:37] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:06:51] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:06:51] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:06:51] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:06:51] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:06:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:06:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:06:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:06:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:04] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:04] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:04] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:04] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:04] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:04] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:04] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:04] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:08:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/db.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:09:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:09:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:09:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:09:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:09:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:09:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:09:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:09:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:10:47] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:10:47] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:10:47] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:10:47] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:13:09] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:13:09] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:13:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:13:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:16:35] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:16:35] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:16:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:16:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:16:37] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:16:37] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:22:27] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:22:28] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:22:34] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:22:34] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:23:34] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:23:34] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:23:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [24/Jul/2023 17:23:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 525-807-510
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 194-179-790
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug: * Detected change in '/usr/lib/python3/dist-packages/gi/overrides/IBus.py.dpkg-new', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/__init__.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/__init__.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:28:25] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:28:25] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:44] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:44] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:50] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:50] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:50] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:32:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:33:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:33:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:35:51] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:35:52] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:36:16] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:36:16] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:36:29] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:36:29] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:36:32] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:11] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:11] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:11] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:11] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:19] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:44] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:53:44] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:55:57] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:55:57] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:55:57] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:55:57] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:57:21] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:57:21] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:57:21] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 11:57:21] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:00:44] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:00:44] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:00:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:00:44] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:03:07] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:03:07] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:03:07] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:03:07] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:12:31] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:12:31] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:12:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:12:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:13:53] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:13:53] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:13:53] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:13:53] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:13:58] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:13:58] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:13:58] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:14:23] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:14:23] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:14:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:14:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:14:38] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:14:38] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:14:38] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:14:38] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:15:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:15:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:15:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:15:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:15:51] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:15:51] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:15:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:15:51] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:16:26] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:16:27] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:16:30] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:16:32] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:16:33] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:16:35] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:17:29] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:17:29] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:17:29] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:17:29] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:20:20] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:20:21] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:20:24] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:20:27] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:20:27] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 12:20:29] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 13:34:51] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 13:34:52] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:00:56] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:00:56] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:01:45] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:01:45] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:08:59] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:08:59] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:10:48] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:10:48] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:11:29] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:11:30] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:14:04] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:14:05] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 109-770-723
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:14:50] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:14:51] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:19:48] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:19:48] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:22:33] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:22:33] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:23:05] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 14:23:05] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-756-406
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-756-406
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:54:34] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:54:35] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:54:35] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:54:40] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:54:40] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:57:54] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:57:54] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 132-756-406
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:59:41] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:59:42] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:59:48] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 15:59:48] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:00:58] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:00:59] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:01:19] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:01:19] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:01:39] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:01:40] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:02:01] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:02:01] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:02:18] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:02:18] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:02:35] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:02:35] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:32] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:33] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:37] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:40] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:40] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:46] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:46] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:49] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:56] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 16:16:56] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:04:07] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:04:07] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:16:15] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:16:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:16:23] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:16:23] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:17:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:17:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:17:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:17:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:17:35] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:17:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:17:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:17:38] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:17:38] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:18:30] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:18:30] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:18:30] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:18:33] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:18:33] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:39:00] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:39:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:39:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 19:39:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:45] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:45] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:45] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:48] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:48] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:52] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:52] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:52] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:24:52] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:25:20] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:25:20] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:25:20] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:25:20] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:27:46] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:27:46] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:27:47] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:29:03] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:29:03] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:29:03] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:29:15] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:29:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:29:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 349-372-158
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:30:41] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:30:41] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:30:42] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:30:42] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:31:06] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:31:06] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:31:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:31:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:32:17] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:32:17] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:32:21] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 349-372-158
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:33:10] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:33:11] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:33:14] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:34:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:34:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:34:06] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:34:06] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:52:18] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:52:19] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:52:21] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:52:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:52:26] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 20:52:26] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:16:47] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:16:47] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:16:47] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:16:47] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:43:50] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:43:51] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:44:16] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:44:16] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:44:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:44:26] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 21:44:26] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 22:04:39] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 22:04:39] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 22:04:39] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 22:04:39] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 22:37:28] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 22:37:28] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 22:37:28] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 22:37:28] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 23:02:25] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 23:02:25] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 23:02:25] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 23:02:25] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 23:29:35] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 23:29:35] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 23:29:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [25/Jul/2023 23:29:35] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 325-355-213
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:57:27] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:57:27] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:57:27] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:57:27] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:57:52] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:57:52] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:58:06] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:58:06] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:58:06] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:58:06] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:58:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:58:09] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:58:11] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 08:58:11] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 469-923-547
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 09:58:08] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 09:58:10] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 09:58:10] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 877-251-523
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 10:53:48] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 10:53:48] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 10:54:34] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 10:54:34] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 966-804-803
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 966-804-803
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:03:31] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:03:31] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:09:59] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:10:06] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:11:36] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:11:38] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:12:18] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:12:19] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:13:34] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:13:36] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:33:57] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:33:58] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:33:58] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:35:52] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:35:52] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:37:51] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:37:52] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:39:32] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:39:32] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:40:51] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:40:51] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 966-804-803
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:47:26] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:47:26] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:49:09] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:49:09] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:53:55] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:53:55] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:55:51] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 12:55:53] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:03:30] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:03:30] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:06:15] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:06:15] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:06:24] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:06:24] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:05] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:07] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:07] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:07] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:07] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:16] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:08:16] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:22] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:22] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:22] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:29] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:29] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:29] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:29] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:30] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:30] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:59] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:10:59] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:11:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:26:31] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:26:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:26:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:26:39] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:26:39] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:26:40] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:27:05] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:27:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:27:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:27:11] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:27:11] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:27:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:27:20] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:27:20] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:27:20] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:02] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:10] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:10] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:11] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:21] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:21] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:37:21] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug: * Detected change in '/home/lit/Desktop/penzi/Penzi/routes.py', reloading
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 966-804-803
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:42:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:42:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:42:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:42:26] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:[31m[1mWARNING: This is a development server. Do not use it in a production deployment. Use a production WSGI server instead.[0m
+ * Running on http://127.0.0.1:5000
+INFO:werkzeug:[33mPress CTRL+C to quit[0m
+INFO:werkzeug: * Restarting with watchdog (inotify)
+WARNING:werkzeug: * Debugger is active!
+INFO:werkzeug: * Debugger PIN: 966-804-803
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:57:16] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:57:17] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:57:30] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:57:30] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:58:30] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:58:30] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:58:30] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:58:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:58:31] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:58:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 13:58:34] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 14:03:18] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 14:03:19] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 14:17:58] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 14:17:58] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 14:38:30] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 14:38:30] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 14:38:30] "[31m[1mPOST /profile HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 14:38:30] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:09:42] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:09:42] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:09:42] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:09:42] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:09:49] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:09:50] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:11:57] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:11:57] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:11:57] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:11:57] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:12:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:12:13] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:12:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:12:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:12:17] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:12:17] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:01] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:01] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:02] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:03] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:03] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:12] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:12] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:12] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:12] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:13] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:14] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:14] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:15] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:47] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:47] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:13:47] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:14:01] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:14:01] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:14:08] "OPTIONS /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:14:09] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:14:12] "POST /sms HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:14:24] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:14:24] "[31m[1mPOST /profile HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:14:24] "[31m[1mPOST /profile HTTP/1.1[0m" 400 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:20:40] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:20:40] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:20:40] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:20:40] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:21:20] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:21:20] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:21:21] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:22:05] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:22:05] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:22:07] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:25:39] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:25:39] "OPTIONS /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:25:39] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:25:39] "POST /profile HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:32:24] "GET /users HTTP/1.1" 200 -
+INFO:werkzeug:127.0.0.1 - - [26/Jul/2023 15:32:24] "GET /users HTTP/1.1" 200 -
