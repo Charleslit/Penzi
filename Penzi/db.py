@@ -204,10 +204,6 @@ def welcome_user(Phone,client_id):
     except Exception as e:
         error_message = f"Error: {str(e)} in welcome_user"
         return str(error_message)
-
-import re
-
-
 KEYWORDS = {
     "welcome": ["penzi", "start","hello"],
     "describe":["describe"],
@@ -274,17 +270,16 @@ def handle_response(Message, Phone, client_id):
     return get_user_response(Message, Phone,client_id)
 def handle_keyword(content, keyword, Phone, client_id):
     try:
-        if keyword == "start":
+        if "start" in keyword:
             return handle_registration(content, Phone, client_id)
-        elif keyword == "details":
+        elif "details" in keyword:
             return handle_details_registration(content, Phone, client_id)
-        elif keyword == "myself":
+        elif "myself" in keyword:
             return handle_self_description(content, Phone, client_id)
-        elif keyword == "match":
+        elif "match" in keyword:   
             return handle_matching(content, Phone, client_id)
-        elif keyword == "next":
-            m = content
-            return handle_paginate(m, Phone, client_id)
+        elif "next" in keyword:
+            return handle_paginate(content, Phone, client_id)
         elif keyword == "describe":
             return handle_describe(content, Phone, client_id)
         else:

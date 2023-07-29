@@ -60,8 +60,7 @@ def handle_sms():
                 return jsonify(error="Incomplete message data")
 
             return mainhandler(phone, message, client_id)
-            # You may need to modify the above line based on your database structure
-
+             
         # return jsonify(success=True)
 
     except Exception as e:
