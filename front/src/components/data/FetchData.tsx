@@ -1,12 +1,24 @@
 import { useState, useEffect } from 'react';
 
-function DataRow({ data, townFilter, columns }) {
+interface User {
+  id: number; // Assuming 'id' is present in the user data.
+  [key: string]: any; // Other properties can have any type.
+}
+
+interface DataRowProps {
+  data: User;
+  townFilter: string;
+  columns: string[];
+  onClick: () => void;
+}
+
+function DataRow({ data, townFilter, columns, onClick }: DataRowProps) {
   if (townFilter && data.town && data.town.toLowerCase() !== townFilter.toLowerCase()) {
     return null;
   }
 
   return (
-    <tr>
+    <tr onClick={onClick}>
       {columns.map((column) => (
         <td key={column}>{data[column.toLowerCase()]}</td>
       ))}
@@ -15,7 +27,7 @@ function DataRow({ data, townFilter, columns }) {
 }
 
 function FilterableDataTable() {
-  const [data, setData] = useState([]);
+  const [data, setData] = useState<User[]>([]);
   const [genderFilter, setGenderFilter] = useState('');
   const [townFilter, setTownFilter] = useState('');
   const [ageFilter, setAgeFilter] = useState('');
@@ -28,7 +40,7 @@ function FilterableDataTable() {
         if (!response.ok) {
           throw new Error('Failed to fetch data');
         }
-        const data = await response.json();
+        const data: User[] = await response.json();
         setData(data);
       } catch (error) {
         console.error(error);
@@ -38,41 +50,40 @@ function FilterableDataTable() {
     fetchData();
   }, []);
 
-  const towns = data ? [...new Set(data.map((element) => element.town))] : [];
-  const ages = data ? [...new Set(data.map((element) => element.age))] : [];
+  const towns = data ? [...new Set(data.map((element) => element?.town))] : [];
+  const ages = data ? [...new Set(data.map((element) => element?.age))] : [];
 
-  const [selectedUser, setSelectedUser] = useState(null);
+  const [selectedUser, setSelectedUser] = useState<User | null>(null);
   const [searchTerm, setSearchTerm] = useState('');
   const [sortBy, setSortBy] = useState('Name');
   const [currentPage, setCurrentPage] = useState(1);
   const [usersPerPage] = useState(10);
 
-  const handleUserClick = (user) => {
+  const handleUserClick = (user: User) => {
     setSelectedUser(user);
   };
 
-  const handleSearchChange = (event) => {
+  const handleSearchChange = (event: React.ChangeEvent<HTMLInputElement>) => {
     setSearchTerm(event.target.value);
     setCurrentPage(1);
   };
 
-  const handleSortChange = (event) => {
+  const handleSortChange = (event: React.ChangeEvent<HTMLSelectElement>) => {
     setSortBy(event.target.value);
   };
 
-  const handlePageChange = (event) => {
-    setCurrentPage(Number(event.target.id));
+  const handlePageChange = (event: React.MouseEvent<HTMLButtonElement>) => {
+    setCurrentPage(Number(event.currentTarget.id));
   };
 
   const indexOfLastUser = currentPage * usersPerPage;
   const indexOfFirstUser = indexOfLastUser - usersPerPage;
- const filteredUsers = data.filter(
-  (user) =>
-    (user.Name?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    user.Gender?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    user.Town?.toLowerCase().includes(searchTerm.toLowerCase()) ||
-    user.Age?.toString().includes(searchTerm))
-);
+  const filteredUsers = data.filter((user) =>
+    Object.values(user).some(
+      (value) =>
+        value?.toString().toLowerCase().includes(searchTerm.toLowerCase())
+    )
+  );
   const sortedUsers = filteredUsers.sort((a, b) => {
     if (a[sortBy] < b[sortBy]) {
       return -1;
@@ -84,14 +95,11 @@ function FilterableDataTable() {
   });
   const currentUsers = sortedUsers.slice(indexOfFirstUser, indexOfLastUser);
   const totalPages = Math.ceil(sortedUsers.length / usersPerPage);
-  const pageNumbers = [];
-  for (let i = 1; i <= totalPages; i++) {
-    pageNumbers.push(i);
-  }
+  const pageNumbers = Array.from({ length: totalPages }, (_, i) => i + 1);
 
   return (
     <div>
-      <h1>Filter your Search </h1>
+      <h1>Filter your Search</h1>
       <div>
         <label>
           Filter by gender:
@@ -112,7 +120,9 @@ function FilterableDataTable() {
           >
             <option value="">All</option>
             {towns.map((town) => (
-              <option value={town} key={town}>{town}</option>
+              <option value={town} key={town}>
+                {town}
+              </option>
             ))}
           </select>
         </label>
@@ -124,7 +134,9 @@ function FilterableDataTable() {
           >
             <option value="">All</option>
             {ages.map((age) => (
-              <option value={age} key={age}>{age}</option>
+              <option value={age} key={age}>
+                {age}
+              </option>
             ))}
           </select>
         </label>
@@ -175,9 +187,9 @@ function FilterableDataTable() {
         {pageNumbers.map((number) => (
           <button
             key={number}
-            id={number}
+            id={number.toString()}
             onClick={handlePageChange}
-            className={currentPage === number ? 'active' : null}
+            className={currentPage === number ? 'active' : undefined}
           >
             {number}
           </button>

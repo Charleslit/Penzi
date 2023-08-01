@@ -1,17 +1,16 @@
 import { useState } from 'react';
-import Start from './start';
+
 import FilterableDataTable from './data/FetchData';
 import './Navbar.css';
 
 function Navbar() {
   const [isNavOpen, setIsNavOpen] = useState(false);
   const [showStart, setShowStart] = useState(false);
- const [start, setStart] = useState(false)
   const handleNavToggle = () => setIsNavOpen(!isNavOpen);
 
-  const handleHomeClick = (event) => {
+  const handleHomeClick = (event: React.MouseEvent<HTMLAnchorElement, MouseEvent>) => {
     event.preventDefault();
-    const linkText = event.target.text;
+    const linkText = event.currentTarget.textContent;
     if (linkText === 'Contacts') {
       setShowStart(true);
     } else {
@@ -73,7 +72,7 @@ function Navbar() {
         </div>
       </nav>
       {showStart && <FilterableDataTable />}
-      {start && <Start />}
+     
     </>
   );
 }

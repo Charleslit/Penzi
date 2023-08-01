@@ -1,13 +1,28 @@
 import { useState, useEffect } from "react";
+interface ProfileData {
+  id: number;
+  name: string;
+  age: number;
+  phone: string;
+  gender: string;
+  county: string;
+  town: string;
+  dateCreated: string;
+}
+function isErrorObject(error: unknown): error is Error {
+  return error instanceof Error;
+}
 
-function setDataInLocalStorage(key, data) {
+function setDataInLocalStorage(key: string, data: any) {
   localStorage.setItem(key, JSON.stringify(data));
 }
 
 const Fetchdata = () => {
-  const [profileData, setProfileData] = useState([]);
+  const [profileData, setProfileData] = useState<ProfileData[]>([]);
+
   const [isLoading, setIsLoading] = useState(true);
-  const [error, setError] = useState(null);
+  const [error, setError] = useState<string | null>(null);
+
 
   // Define expected properties
   const expectedProperties = ['name', 'age'];
@@ -37,10 +52,17 @@ const Fetchdata = () => {
         setDataInLocalStorage("Data", data);
         setProfileData(data);
         setIsLoading(false);
-      } catch (error) {
-        console.error("Error fetching profile data:", error);
-        setError(error.message);
+      } 
+      catch (error) {
+        if (isErrorObject(error)) {
+          console.error("Error fetching profile data:", error);
+          setError(error.message);
+        } else {
+          console.error("Unknown error occurred:", error);
+          setError("An unknown error occurred.");
+        }
         setIsLoading(false);
+    
       }
     };
 

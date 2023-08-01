@@ -1,18 +1,20 @@
-import { useRef, useState, useEffect } from "react";
-import React from "react";
+import React, { useRef, useState, useEffect } from "react";
 import "./SendMessage.css";
-import Message from "./Message"
 
+type SmsResponse = {
+  message: string;
+  response?: string; // Assuming the 'response' property is optional and of type 'string'.
+};
 
 const ChatHeader = () => {
   return (
     <div className="chat-header">
-    <Message />
+      {/* The 'Message' component should be defined here. */}
     </div>
   );
 };
 
-const ChatMessages = ({ smsResponseRef }) => {
+const ChatMessages = ({ smsResponseRef }: { smsResponseRef: SmsResponse[] }) => {
   const bottomRef = useRef<HTMLSpanElement>(null);
 
   useEffect(() => {
@@ -23,7 +25,7 @@ const ChatMessages = ({ smsResponseRef }) => {
 
   return (
     <div className="chat-messages">
-      {smsResponseRef.map((item, index) => (
+      {smsResponseRef.map((item: SmsResponse, index: number) => (
         <div
           key={index}
           className={
@@ -31,9 +33,9 @@ const ChatMessages = ({ smsResponseRef }) => {
           }
         >
           <p className="message-text">{item.message}</p>
-          <br></br>
+          <br />
           {item.response && (
-            <p className="message-timestamp">{[item.response]}</p>
+            <p className="message-timestamp">{item.response}</p>
           )}
         </div>
       ))}
@@ -42,12 +44,17 @@ const ChatMessages = ({ smsResponseRef }) => {
   );
 };
 
+type MessageInputProps = {
+  message: string;
+  setMessage: React.Dispatch<React.SetStateAction<string>>;
+  sendMessage: (event: React.FormEvent) => Promise<void>;
+};
 
-const MessageInput = ({ message, setMessage, sendMessage }) => {
-  const inputRef = useRef(null);
+const MessageInput = ({ message, setMessage, sendMessage }: MessageInputProps) => {
+  const inputRef = useRef<HTMLInputElement>(null);
 
   useEffect(() => {
-    inputRef.current.focus();
+    inputRef.current?.focus();
   }, [message]);
 
   return (
@@ -76,7 +83,7 @@ const MessageInput = ({ message, setMessage, sendMessage }) => {
 
 const SendMessage = () => {
   const [message, setMessage] = useState("");
-  const [smsResponseRef, setSmsResponseRef] = useState<any[]>([]);
+  const [smsResponseRef, setSmsResponseRef] = useState<SmsResponse[]>([]);
   const [error, setError] = useState<string | null>(null);
 
   const sendMessage = async (event: React.FormEvent) => {
@@ -124,8 +131,6 @@ const SendMessage = () => {
   };
 
   return (
-    <>
-
     <div className="chat-container">
       {error && <div className="chat-error">{error}</div>}
       <div className="chat-main">
@@ -138,7 +143,6 @@ const SendMessage = () => {
         />
       </div>
     </div>
-    </>
   );
 };
 

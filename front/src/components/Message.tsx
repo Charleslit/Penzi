@@ -1,4 +1,3 @@
-import Fetchdata from "./Fetchdata.tsx"
 const Message = () => {
   return (
     <div className={`chat-bubble`}>

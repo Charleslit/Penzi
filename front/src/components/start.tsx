@@ -4,8 +4,8 @@ import './SendMessage.css'
 
 const Start = () => {
   const [phone, setPhone] = useState("");
-  const [shortCode, setShortCode] = useState("");
-  const [dateReceived, setDateReceived] = useState("");
+  const [shortCode,] = useState("");
+  const [dateReceived, ] = useState("");
   const [submitted, setSubmitted] = useState(false);
 
   const storenumber = () => {

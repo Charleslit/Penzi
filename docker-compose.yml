@@ -1,0 +1,38 @@
+version: '3.8'
+
+services:
+  # React front end service
+  react:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5173:5173"
+    depends_on:
+      - api
+
+  # Flask API service
+  api:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    ports:
+      - "5000:5000"
+    depends_on:
+      - mysql
+    environment:
+      FLASK_DEBUG: '1'
+
+  # MySQL service
+  mysql:
+    image: mysql:8.0
+    volumes:
+      - penzi-mysql-data:/var/lib/mysql
+    environment:
+      MYSQL_ROOT_PASSWORD: lit123
+      MYSQL_DATABASE: penzi
+      MYSQL_USER: root
+      MYSQL_PASSWORD: lit123
+
+volumes:
+  penzi-mysql-data:
