@@ -1,0 +1,45 @@
+# Directories
+node_modules/
+dist/
+
+# Build artifacts
+build/
+out/
+
+# Cache and logs
+.cache/
+yarn-error.log
+yarn-debug.log*
+npm-debug.log*
+
+# Editor and IDE specific files
+.vscode/
+.idea/
+
+# OS specific files
+.DS_Store
+Thumbs.db
+
+# Environment files
+.env
+.env.local
+.env.*.local
+
+# Package manager lock files
+yarn.lock
+package-lock.json
+package.json
+
+# Compiled files
+*.css
+*.js
+*.json
+
+# Ignore the Vite build manifest
+manifest.json
+
+# Ignore the Vite optimization cache
+.rpt2_cache/
+
+# Exclude any other unnecessary files or directories
+# Add additional exclusions as needed

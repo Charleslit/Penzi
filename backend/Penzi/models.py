@@ -1,5 +1,4 @@
 from datetime import datetime
-from Penzi import db
 
 # Database operations
 class queries:

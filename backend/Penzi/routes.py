@@ -1,5 +1,4 @@
 from flask import Flask, jsonify, request
-import pdp
 import requests
 import json
 from Penzi import app 

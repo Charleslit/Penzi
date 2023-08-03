@@ -1,0 +1,4 @@
+mysql-connector-python
+flask_cors 
+requests
+flask_paginate 

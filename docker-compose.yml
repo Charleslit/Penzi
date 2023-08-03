@@ -1,38 +1,22 @@
-version: '3.8'
-
+version: '3.9'
 services:
-  # React front end service
-  react:
+  frontend:
     build:
-      context: .
-      dockerfile: Dockerfile
+      context: ./front
     ports:
-      - "5173:5173"
-    depends_on:
-      - api
-
-  # Flask API service
-  api:
+      - "5173:5173" 
+  backend:
     build:
-      context: .
-      dockerfile: Dockerfile
+      context: ./backend
     ports:
-      - "5000:5000"
+      - "5000:5000"  
     depends_on:
-      - mysql
-    environment:
-      FLASK_DEBUG: '1'
+      - db  # Connect to the MySQL database container
 
-  # MySQL service
-  mysql:
-    image: mysql:8.0
-    volumes:
-      - penzi-mysql-data:/var/lib/mysql
+  db:
+    image: mysql:latest
     environment:
       MYSQL_ROOT_PASSWORD: lit123
-      MYSQL_DATABASE: penzi
-      MYSQL_USER: root
-      MYSQL_PASSWORD: lit123
-
-volumes:
-  penzi-mysql-data:
+      MYSQL_DATABASE: Penzi
+    ports:
+      - "3306:3306"  # Map the container's port 3306 to the host's port 3306
