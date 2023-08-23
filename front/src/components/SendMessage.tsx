@@ -85,7 +85,8 @@ const SendMessage = () => {
   const [message, setMessage] = useState("");
   const [smsResponseRef, setSmsResponseRef] = useState<SmsResponse[]>([]);
   const [error, setError] = useState<string | null>(null);
-
+  const url = 'http://localhost:5000/sms';
+  const token = 'your-auth-token';
   const sendMessage = async (event: React.FormEvent) => {
     event.preventDefault();
 
@@ -101,10 +102,11 @@ const SendMessage = () => {
         dateReceived: new Date(),
       };
 
-      const response = await fetch("http://127.0.0.1:5000/sms", {
+      const response = await fetch(url, {
         method: "POST",
         headers: {
           "Content-Type": "application/json",
+         Authorization:`Bearer ${token}`,
         },
         body: JSON.stringify(payload),
       });
@@ -145,5 +147,6 @@ const SendMessage = () => {
     </div>
   );
 };
+
 
 export default SendMessage;

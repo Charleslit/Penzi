@@ -40,6 +40,7 @@ manifest.json
 
 # Ignore the Vite optimization cache
 .rpt2_cache/
-
+.pyc*
+__pycache__
 # Exclude any other unnecessary files or directories
 # Add additional exclusions as needed

@@ -62,32 +62,34 @@ def handle_profile(Phone):
 
     
         # return jsonify({"message": "User profile not found"})
-def users():
-        query = "SELECT * FROM Users"
-        with db.cursor() as cursor:
-            cursor.execute(query)
-            result = cursor.fetchall()
-        if len(result) > 0:
-            users = []
+def fetch_users():
+    query = "SELECT * FROM Users"
+    with db.cursor() as cursor:
+        cursor.execute(query)
+        results = cursor.fetchall()
+        
+        return results
 
-            # Store matches in a list
-            for row in result:
-                id, Name, Phone, Age, Gender, County, Town, dateCreated = row
-                match = {
-                    "id": id,
-                    "name": Name,
-                    "age": Age,
-                    "phone": Phone,
-                    "gender": Gender,
-                    "county": County,
-                    "town": Town,
-                    "dateCreated": dateCreated
-                }
-                users.append(match)
+        # Set the batch size for fetching data
+        # batch_size = 100
 
-            return jsonify(users)
-        else:
-            return jsonify({"message": "User profile not found"})
+        # while True:
+        #     batch = cursor.fetchmany(batch_size)
+        #     if not batch:
+        #         break
+
+        #     for row in batch:
+        #         yield {
+        #             "id": row[0],
+        #             "name": row[1],
+        #             "phone": row[2],
+        #             "age": row[3],
+        #             "gender": row[4],
+        #             "county": row[5],
+        #             "town": row[6],
+        #             "dateCreated": row[7]
+        #         }
+
 def mainhandler(Phone, Message,client_id):
         messageType = "incoming"
         Phone =checkphone(Phone) 
@@ -234,7 +236,10 @@ def handle_message(message, phone, client_id):
             else:
                     return handle_keywords(message, phone, client_id)
         else:
-            return handle_welcome(phone, client_id)
+            if "start" in message:
+                return handle_keywords(message, phone, client_id)
+            else:
+             return handle_welcome(phone, client_id)
     except Exception as e:
         error_message = f"Error: {str(e)} in handle_message"
         return error_message
@@ -611,7 +616,7 @@ def handle_matching(content, phone, client_id):
         matches = find_matches(gender, age, town)
         if not matches:
             text = "No matches found for your category. Please adjust your choices and try again."
-            Saveoutgoing(text, phone, client_id)
+            return Saveoutgoing(text, phone, client_id)
         else:
             user_id = check_user(phone)[0]
             message_id = check_request(user_id)[0]  

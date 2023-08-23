@@ -1,9 +1,6 @@
-from flask import Flask, jsonify, request
-import requests
-import json
+from flask import jsonify, request
 from Penzi import app 
-from Penzi.models import queries
-from Penzi.db import mainhandler,handle_profile,users
+from Penzi.db import mainhandler,handle_profile,fetch_users
 
 
 @app.route("/whatsapp" , methods=['POST'])
@@ -35,6 +32,7 @@ from flask import jsonify, request
 from Penzi.models import queries
 
 @app.route("/sms", methods=['POST'])
+# @requires_role('user')
 def handle_sms():
     try:
         req = request.get_json()
@@ -66,14 +64,6 @@ def handle_sms():
         error_message = f"Error: {str(e)} in handle_sms"
         return jsonify(error=error_message)
 
-@app.route("/users",methods=['GET'])
-def get_users():
-    try:
-        return users()
-        
-    except Exception as e:
-        error_message = f"Error: {str(e)} in /users"
-        return jsonify(error=error_message),400
 @app.route("/profile",methods=['POST'])
 def get_user_profile():
     try:
@@ -85,3 +75,28 @@ def get_user_profile():
     except Exception as e:
         error_message = f"Error: {str(e)} in /profile"
         return jsonify(error=error_message),400
+import logging
+from Penzi import app
+
+# Set up logging
+logging.basicConfig(level=logging.DEBUG)
+
+@app.route('/users', methods=['GET'])
+def get_users():
+    try:
+        print('get users list')
+        # Log the request
+        app.logger.debug('Received GET request for /users')
+
+        users = fetch_users()
+        print(users)
+
+        if users:
+            return jsonify(users), 200
+        else:
+            return jsonify({"message": "User profiles not found"}), 404
+    except Exception as e:
+        # Log the error
+        app.logger.error('An error occurred while fetching user profiles', exc_info=True)
+        return jsonify({"message": "An error occurred while fetching user profiles"}), 500
+

@@ -5,7 +5,7 @@ FROM node:16-alpine as frontend
 WORKDIR /app
 
 
-
+COPY Monitor ./Monitor
 COPY package*.json ./
 RUN npm install
 

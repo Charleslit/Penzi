@@ -1,0 +1,83 @@
+create database penzi;
+use penzi;
+CREATE TABLE IF NOT EXISTS Users(
+id INT PRIMARY KEY AUTO_INCREMENT,
+Name VARCHAR(255),
+Phone VARCHAR(255),
+Age INT,
+Gender VARCHAR(255),
+County VARCHAR(255),
+Town VARCHAR(255));
+
+
+CREATE TABLE IF NOT EXISTS User_details(
+id INT PRIMARY KEY AUTO_INCREMENT,
+User_id INT ,
+level_of_education VARCHAR(255),
+profession VARCHAR(255),
+marital_status VARCHAR(255),
+religion VARCHAR(255),
+ethnicity VARCHAR(255)
+FOREIGN KEY (User_id) REFERENCES Users(id));
+
+CREATE TABLE IF NOT EXISTS User_description(
+id INT PRIMARY KEY AUTO_INCREMENT,
+User_id INT ,
+Description TEXT
+FOREIGN KEY (User_id) REFERENCES Users(id));
+
+
+CREATE TABLE IF NOT EXISTS Messages(
+id INT PRIMARY KEY AUTO_INCREMENT,
+User_id INT ,
+Message TEXT,
+Message_type VARCHAR(255),
+dateReceived DATETIME,
+FOREIGN KEY (User_id) REFERENCES Users(id));
+
+CREATE TABLE IF NOT EXISTS Matching_request(
+id INT PRIMARY KEY AUTO_INCREMENT,
+User_id INT,
+Message_id INT,
+Age INT,
+Town VARCHAR(255),
+Subsequent VARCHAR(255),
+FOREIGN KEY (User_id) REFERENCES Users(id),
+FOREIGN KEY (Message_id) REFERENCES Messages(id)
+);
+
+CREATE TABLE IF NOT EXISTS matches(
+id INT PRIMARY KEY AUTO_INCREMENT,
+User_id INT,
+Matching_request_id INT,
+Describe_no INT,
+MoreDetails TEXT,
+Confirmation VARCHAR(255),
+FOREIGN KEY (User_id) REFERENCES Users(id),
+FOREIGN KEY (Matching_request_id) REFERENCES Matching_request(id)
+);
+
+CREATE DATABASE IF NOT EXISTS Auth;
+
+USE Auth;
+
+CREATE TABLE IF NOT EXISTS users (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  username VARCHAR(255) NOT NULL,
+  password VARCHAR(255) NOT NULL,
+  role VARCHAR(20) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS blacklist (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  token VARCHAR(255) NOT NULL
+);
+
+CREATE TABLE IF NOT EXISTS refresh_token (
+  id INT AUTO_INCREMENT PRIMARY KEY,
+  username VARCHAR(255) NOT NULL,
+  token VARCHAR(255) NOT NULL
+);
+show tables;
+SELECT * from users;
+insert into users (username,password,role)values('admin','admin','admin');

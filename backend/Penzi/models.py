@@ -30,7 +30,7 @@ class queries:
     )
 
     usersdescription = (
-        "INSERT INTO Penzi.User_description (User_id, Description) "
+        "INSERT INTO penzi.User_description (User_id, Description) "
         "VALUES (%s, %s)"
     )
 
