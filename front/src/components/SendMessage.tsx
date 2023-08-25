@@ -85,7 +85,7 @@ const SendMessage = () => {
   const [message, setMessage] = useState("");
   const [smsResponseRef, setSmsResponseRef] = useState<SmsResponse[]>([]);
   const [error, setError] = useState<string | null>(null);
-  const url = 'http://localhost:5000/sms';
+  const url = 'http://charleslit.uk.to:5000/sms';
   const token = 'your-auth-token';
   const sendMessage = async (event: React.FormEvent) => {
     event.preventDefault();

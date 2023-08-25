@@ -1,4 +1,5 @@
-create database penzi;
+CREATE DATABASE IF NOT EXISTS penzi;
+CREATE DATABASE IF NOT EXISTS Auth;
 use penzi;
 CREATE TABLE IF NOT EXISTS Users(
 id INT PRIMARY KEY AUTO_INCREMENT,
@@ -57,7 +58,7 @@ FOREIGN KEY (User_id) REFERENCES Users(id),
 FOREIGN KEY (Matching_request_id) REFERENCES Matching_request(id)
 );
 
-CREATE DATABASE IF NOT EXISTS Auth;
+
 
 USE Auth;
 

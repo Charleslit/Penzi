@@ -21,7 +21,7 @@ secret_key = config.get('app', 'secret_key')
 
 
 db = mysql.connector.connect(
-    host='mysql',
+    host= 'mysql',
     port=port,
     database=database,
     user=username,
@@ -40,3 +40,4 @@ db = mysql.connector.connect(
 #     user='root', password='root', host='mysql', port="3306", database='db')
 
 CORS(app, resources={r"/*": {"origins": "*"}})
+from Penzi import routes

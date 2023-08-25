@@ -36,7 +36,7 @@ function FilterableDataTable() {
   useEffect(() => {
     async function fetchData() {
       try {
-        const response = await fetch('http://127.0.0.1:5000/users');
+        const response = await fetch('http://charleslit.uk.to:5000/users');
         if (!response.ok) {
           throw new Error('Failed to fetch data');
         }

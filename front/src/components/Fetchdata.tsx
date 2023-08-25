@@ -36,7 +36,7 @@ const Fetchdata = () => {
           shortCode: 42121,
           dateReceived: new Date(),
         };
-        const response = await fetch("http://127.0.0.1:5000/profile", {
+        const response = await fetch("http://charleslit.uk.to:5000/profile", {
           method: "POST",
           headers: {
             "Content-Type": "application/json",

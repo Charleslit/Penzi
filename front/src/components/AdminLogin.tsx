@@ -11,7 +11,7 @@ const AdminLogin = () => {
     // Make a login request to get the token
     const login = async () => {
       try {
-        const response = await fetch('http://localhost:5000/Adminlogin', {
+        const response = await fetch('http://charleslit.uk.to:5000/Adminlogin', {
           method: 'POST',
           headers: {
             'Content-Type': 'application/json',
