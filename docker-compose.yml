@@ -1,38 +1,27 @@
 version: "3"
 services:
   backend:
-    build: charleslit/penzi2:latest
-    command: sh -c "sleep 30s ;python3 ./run.py"
+    image: charleslit/penzi2:latest
+    command: sh -c "sleep 30s ; python3 ./run.py"
     ports:
       - "5000:5000"
     depends_on:
       - mysql
 
-
   mysql:
-      build: ./db/
-      restart: always
-      environment:
-        MYSQL_DATABASE: 'penzi'
-        MYSQL_ROOT_PASSWORD: 'lit123'
-      ports:
+    build: ./db/
+    restart: always
+    environment:
+      MYSQL_DATABASE: 'penzi'
+      MYSQL_ROOT_PASSWORD: 'lit123'
+    ports:
       - '3306:3306'
-      volumes:
-      - ./db_data":/var/lib/mysql
-      # - ./config.ini:/config.ini # Mount the config.ini file
-
-
+    volumes:
+      - ./db_data:/var/lib/mysql
 
   frontend:
-    build: charleslit/penzi1:front-v1 
+    image: charleslit/penzi1:front-v1  # Pulling the image from Docker Hub
     ports:
       - "3000:3000"
     depends_on:
       - backend
-
-  # mobile:
-  #   build:
-  #     context: ./mobile
-  #     dockerfile: Dockerfile
-  #   depends_on:
-  #     - backend
