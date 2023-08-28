@@ -31,6 +31,6 @@ services:
       - "443:443"
     volumes:
     - /etc/letsencrypt/archive/charleslit.uk.to/fullchain1.pem:/etc/nginx/ssl/charleslit.uk.to
-    - /etc/letsencrypt/live/penzi.chickenkiller.com:/etc/nginx/ssl/penzi.chickenkiller.com
+    - /etc/letsencrypt/archive/penzi.chickenkiller.com:/etc/nginx/ssl/penzi.chickenkiller.com
     depends_on:
       - backend
